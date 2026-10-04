@@ -1,0 +1,233 @@
+FLOOR BY FLOOR — ТИТРЫ
+
+== Автор ==
+Идея, сценарий, разработка — Романуша Д.С.
+
+== Студия ==
+Студия — ASPECT
+Движок — Godot Engine (MIT)
+   https://godotengine.org
+   Лицензия: https://godotengine.org/license
+
+== 3D-модели ==
+Bin bag Low Poly — Zhelazniakov Aleksandr (CC BY 4.0)
+   https://sketchfab.com/3d-models/bin-bag-low-poly-6f1f7bc45af74ec08f5e0d07ad9a0eb6
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Cardboard Box Low Poly — Ellis Rogers-Byrne (CC BY 4.0)
+   https://sketchfab.com/3d-models/cardboard-box-low-poly-6f66679005e24ff9a017c61c1f4f1cda
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Door Metal door window — ahmagh2e (Mehdi Shahsavan) (CC BY 4.0)
+   https://sketchfab.com/3d-models/door-metal-door-window-10c8a0789ed3474baf53b8a185809cb7
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Folded Newspaper — abdillaamy (CC BY 4.0)
+   https://sketchfab.com/3d-models/folded-newspaper-4fc14ea5129b4ea3b34a22844a6f1b3f
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Glass vial bottle — Rylae Shylna (CC BY 4.0)
+   https://sketchfab.com/3d-models/glass-vial-bottle-2e11c09a24194eefb0f83b7ddd0e33b0
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Low Poly Bag — Dully (CC BY 4.0)
+   https://sketchfab.com/3d-models/low-poly-bag-7ef2543de9ea43d8bdfc9d2e9b3832df
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Zeiss6x30 Binoculars - GameAsset — DavidFalke (CC BY 4.0)
+   https://sketchfab.com/3d-models/zeiss6x30-binoculars-gameasset-6592de15286149de97b171c1fc74e3c6
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Low poly bed game ready — safys4186 (CC BY 4.0)
+   https://sketchfab.com/3d-models/low-poly-bed-game-ready-aeb84a1d01fa47ccb90446dbf077b7fa
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Low Poly Bookshelf — dasWarder (CC BY 4.0)
+   https://sketchfab.com/3d-models/low-poly-bookshelf-f5d0ff9eff4241c69d180b8088166331
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Lowpoly cage primitive — mackatap (CC BY 4.0)
+   https://sketchfab.com/3d-models/lowpoly-cage-primitive-72f8e61418104968b01614f4cde955db
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+CC0 - Coat Rack 3 — plaggy (CC BY 4.0)
+   https://sketchfab.com/3d-models/cc0-coat-rack-3-0d27167d172443a895670a41375f44db
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Low Poly Dead Body Covered Game Ready — -Arthur- (CC BY 4.0)
+   https://sketchfab.com/3d-models/low-poly-dead-body-covered-game-ready-1e6ae13f6c2e46429eaca4d22d8bdbaa
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Wooden Crate, Game-Ready Low Poly PBR — pixelzedge (CC BY 4.0)
+   https://sketchfab.com/3d-models/wooden-crate-game-ready-low-poly-pbr-3d-model-52db72999260498dbe0417cc933bf214
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Lowpoly Dumbbell — szaw (CC BY 4.0)
+   https://sketchfab.com/3d-models/lowpoly-dumbbell-712e2589c9d3430386e295db6d7e9ae5
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Old Fridge — sergeilihandristov (CC BY 4.0)
+   https://sketchfab.com/3d-models/old-fridge-6b2862c241754f5d81690e8664e41091
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Low Poly Key for Games — perridan (CC BY 4.0)
+   https://sketchfab.com/3d-models/low-poly-key-for-games-6d2b485fc3d54564b661f6b8e91c34c3
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Light Fixture - Ceiling Recessed — Mozilla Hubs (CC BY 4.0)
+   https://sketchfab.com/3d-models/light-fixture-ceiling-recessed-269fd427629548a8a0949a6493c5b223
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Old-style radiator — Vishchun (CC BY 4.0)
+   https://sketchfab.com/3d-models/old-style-radiator-e60c9859c0354bb18841d4bab0e93323
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Radiator - 2MB — Mehdi Shahsavan (CC BY 4.0)
+   https://sketchfab.com/3d-models/radiator-2mb-83d193e79e934586b962269eb9380145
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Lab Rat — victorberdugo1 (CC BY 4.0)
+   https://sketchfab.com/3d-models/lab-rat-9f1e720a87ac40e7bda7096d760cced7
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Carpet — NatalieHeung (CC BY 4.0)
+   https://sketchfab.com/3d-models/carpet-587a3f4f901a4a84b10ac88314bce19e
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Old Dirty Sink - Low Poly — W0nnaFight (CC BY 4.0)
+   https://sketchfab.com/3d-models/old-dirty-sink-low-poly-17c796aeb1b8455d8f594a72490e11b7
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Trash Can. Low Poly — katykate (CC BY 4.0)
+   https://sketchfab.com/3d-models/trash-can-low-poly-6dfba42794e445719010caf0a1ceca7c
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Wardrobe (Low poly) — DKDTheGreat1 (CC BY 4.0)
+   https://sketchfab.com/3d-models/wardrobe-low-poly-adae92e3e6ed4302adaf37f96ca925ba
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Closet (low poly) — Andrey 3D (CC BY 4.0)
+   https://sketchfab.com/3d-models/closet-low-poly-bcca168732a348a1b26f792c001650b0
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+[Low-Poly] Wrench — KKarlie (CC BY 4.0)
+   https://sketchfab.com/3d-models/low-poly-wrench-5d7e0c367bd04b9e8a10389363ea1174
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Lottery tickets and receipt — Sousinho (CC BY 4.0)
+   https://sketchfab.com/3d-models/lottery-tickets-and-receipt-b6c5a515abb044819b97efcaad5ab624
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Vintage Radio (1937 General Electric F-70) — AleixoAlonso (CC BY 4.0)
+   https://sketchfab.com/3d-models/vintage-radio-1937-general-electric-f-70-234e6bfc7dd346e9a0f821020a336ea1
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Wooden Crate — Erroratten (CC BY 4.0)
+   https://sketchfab.com/3d-models/wooden-crate-e12fde1101b84b6da40056336a7b309d
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+Модели отмасштабированы, материалы изменены под игру.
+
+== Poly Haven ==
+alarm_clock_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/alarm_clock_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+ArmChair_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/ArmChair_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+modern_arm_chair_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/modern_arm_chair_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+GothicBed_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/GothicBed_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+binder_notebook — Poly Haven (CC0)
+   https://polyhaven.com/a/binder_notebook
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+vintage_cabinet_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/vintage_cabinet_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+Camera_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/Camera_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+cannon_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/cannon_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+chemistry_set — Poly Haven (CC0)
+   https://polyhaven.com/a/chemistry_set
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+chess_set — Poly Haven (CC0)
+   https://polyhaven.com/a/chess_set
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+coffee_table_round_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/coffee_table_round_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+dartboard — Poly Haven (CC0)
+   https://polyhaven.com/a/dartboard
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+dining_table — Poly Haven (CC0)
+   https://polyhaven.com/a/dining_table
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+Ukulele_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/Ukulele_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+cross_pein_hammer — Poly Haven (CC0)
+   https://polyhaven.com/a/cross_pein_hammer
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+lightbulb_led — Poly Haven (CC0)
+   https://polyhaven.com/a/lightbulb_led
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+industrial_microscope — Poly Haven (CC0)
+   https://polyhaven.com/a/industrial_microscope
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+vintage_microwave — Poly Haven (CC0)
+   https://polyhaven.com/a/vintage_microwave
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+ornate_mirror_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/ornate_mirror_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+metal_office_desk — Poly Haven (CC0)
+   https://polyhaven.com/a/metal_office_desk
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+brass_pan_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/brass_pan_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+hanging_picture_frame_03 — Poly Haven (CC0)
+   https://polyhaven.com/a/hanging_picture_frame_03
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+standing_picture_frame_02 — Poly Haven (CC0)
+   https://polyhaven.com/a/standing_picture_frame_02
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+potted_plant_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/potted_plant_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+pot_enamel_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/pot_enamel_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+power_box_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/power_box_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+bronze_shark_statue — Poly Haven (CC0)
+   https://polyhaven.com/a/bronze_shark_statue
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+dutch_ship_large_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/dutch_ship_large_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+Sofa_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/Sofa_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+sofa_02 — Poly Haven (CC0)
+   https://polyhaven.com/a/sofa_02
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+chinese_stool — Poly Haven (CC0)
+   https://polyhaven.com/a/chinese_stool
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+electric_stove — Poly Haven (CC0)
+   https://polyhaven.com/a/electric_stove
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+vintage_suitcase — Poly Haven (CC0)
+   https://polyhaven.com/a/vintage_suitcase
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+small_plastic_torch — Poly Haven (CC0)
+   https://polyhaven.com/a/small_plastic_torch
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+Television_01 — Poly Haven (CC0)
+   https://polyhaven.com/a/Television_01
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+wall_clock — Poly Haven (CC0)
+   https://polyhaven.com/a/wall_clock
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+clipboard — Poly Haven (CC0)
+   https://polyhaven.com/a/clipboard
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+portable_generator — Poly Haven (CC0)
+   https://polyhaven.com/a/portable_generator
+   Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
+
+== Зомби ==
+Модели зомби и кухонного стола — Meshy (meshy.ai) (CC BY 4.0)
+   https://www.meshy.ai
+   Лицензия: http://creativecommons.org/licenses/by/4.0/
+
+== Звук ==
+Звуковые эффекты и музыка меню — ElevenLabs (elevenlabs.io), платная подписка
+   https://elevenlabs.io
+   Лицензия: https://elevenlabs.io/terms-of-use
+Фоновая музыка — Pixabay (pixabay.com)
+   https://pixabay.com/music/
+   Лицензия: https://pixabay.com/service/license-summary/
+
+== Спасибо ==
+Всем, кто бесплатно делится своей работой
+И вам — за то, что дошли до первого этажа

@@ -1,0 +1,62 @@
+Floor by Floor — для авторов видео и стримов
+============================================
+
+Снимать прохождения, обзоры и стримы по игре — можно и нужно. Спасибо!
+Монетизация видео (реклама, донаты, интеграции) — тоже можно: модели в игре
+под лицензиями CC0 и CC BY, все звуки и музыка меню сделаны в ElevenLabs на
+платной подписке, фоновая музыка — с Pixabay. Всё это разрешает коммерческое
+использование.
+
+Есть одно ограничение — не наше, а автора одной из моделей:
+
+1. ЛОТЕРЕЙНЫЕ БИЛЕТЫ И ЧЕК — НЕ ОБРАБАТЫВАТЬ НЕЙРОСЕТЯМИ
+   Модель лотерейных билетов с чеком («Lottery tickets and receipt», автор
+   Sousinho) выложена с пометкой NoAI: автор запрещает подавать её на вход
+   генеративному ИИ. Билеты лежат на столах в некоторых квартирах.
+   Кадры, где билеты видны (даже частично, на заднем плане), НЕЛЬЗЯ:
+   - загружать в ChatGPT, Midjourney и другие генераторы — в том числе для
+     превью и обложек;
+   - прогонять через ИИ-апскейл, ИИ-улучшение, ИИ-удаление фона,
+     генеративную заливку и т. п.
+   Обычный монтаж (обрезка, текст, цветокоррекция) — можно.
+   Для ИИ-превью выбирайте кадры без билетов.
+
+Полный список авторов моделей, звуков и лицензий — в файле CREDITS.txt
+рядом с игрой. Ссылку на игру в описании видео — будем рады.
+
+2. ГОТОВЫЙ ТЕКСТ ДЛЯ ОПИСАНИЯ — скопируйте и вставьте целиком:
+
+Игра: Floor by Floor — ASPECT
+Скачать: https://dmitriromanusha1-sys.github.io/aspect-games-/floorbyfloor.html
+Авторы моделей, звуков и лицензии (CC BY 4.0 / CC0): https://github.com/dmitriromanusha1-sys/floorbyfloor/blob/main/CREDITS.txt
+Зомби: Meshy (meshy.ai)
+Звуки: ElevenLabs (elevenlabs.io)
+Музыка: ElevenLabs (elevenlabs.io), Pixabay (pixabay.com)
+
+--------------------------------------------
+
+Floor by Floor — for video creators and streamers
+
+Let's plays, reviews and streams are welcome — and so is monetization
+(ads, donations, sponsorships): models are under CC0 or CC BY, all sounds
+and the menu music were made with a paid ElevenLabs plan, the in-game music
+is from Pixabay — all of which allow commercial use.
+
+One restriction comes from the author of one asset:
+
+1. THE LOTTERY TICKETS AND RECEIPT model (by Sousinho) is marked NoAI. The
+   tickets lie on tables in some apartments. Do not feed any frame showing
+   them into generative AI tools (image generators, AI upscalers, AI
+   background removal, generative fill) — including for thumbnails.
+   Regular editing is fine.
+
+Full asset credits: CREDITS.txt next to the game.
+
+2. READY-TO-PASTE DESCRIPTION — copy the whole block:
+
+Game: Floor by Floor — ASPECT
+Download: https://dmitriromanusha1-sys.github.io/aspect-games-/floorbyfloor.html
+Asset credits and licenses (CC BY 4.0 / CC0): https://github.com/dmitriromanusha1-sys/floorbyfloor/blob/main/CREDITS.txt
+Zombies: Meshy (meshy.ai)
+Sounds: ElevenLabs (elevenlabs.io)
+Music: ElevenLabs (elevenlabs.io), Pixabay (pixabay.com)

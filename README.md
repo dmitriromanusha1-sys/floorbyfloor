@@ -1,7 +1,7 @@
 # Floor by Floor
 
-Survival-хоррор от первого лица: многоэтажка, заполненная зомби, и пятнадцать этажей до выхода. Windows.
-A first-person survival horror: an apartment block full of zombies and fifteen floors to the exit. Windows.
+Survival-хоррор от первого лица: многоэтажка, заполненная зомби, и пятнадцать этажей до выхода. Windows, русский и английский языки.
+A first-person survival horror: an apartment block full of zombies and fifteen floors to the exit. Windows, Russian and English.
 
 **Скачать / Download:** [последний релиз / latest release](https://github.com/dmitriromanusha1-sys/floorbyfloor/releases/latest)
 · [страница игры / game page](https://dmitriromanusha1-sys.github.io/aspect-games-/floorbyfloor.html)

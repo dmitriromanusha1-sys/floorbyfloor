@@ -216,9 +216,12 @@ portable_generator — Poly Haven (CC0)
    Лицензия: https://creativecommons.org/publicdomain/zero/1.0/
 
 == Зомби ==
-Модели зомби и кухонного стола — Meshy (meshy.ai) (CC BY 4.0)
+Модели и анимации движения зомби, кухонный стол — Meshy (meshy.ai) (CC BY 4.0)
    https://www.meshy.ai
    Лицензия: http://creativecommons.org/licenses/by/4.0/
+
+Анимации атаки зомби — Mixamo (Adobe)
+   https://www.mixamo.com
 
 == Звук ==
 Звуковые эффекты и музыка меню — ElevenLabs (elevenlabs.io), платная подписка
